@@ -1,15 +1,15 @@
-### Date | Place
+### 2020-02-21 | Graphtechnologien 2020 @ Vienna Univerity
 
-# Title
+# The Socinian Correspondence: A Graph-based Digital Scholarly Edition 
 
-## Subtitle
+## Generic Tools and Approach
 
-### Author
+### Patrick Toschka
 
 Description
 
-The code of this boilerplate is at https://github.com/digicademy/impress-js-boilerplate
+The code of this presentation is at https://github.com/digicademy/2020-02-21_socinian_correspondence
 
-A live demo can be found at http://digicademy.github.io/impress-js-boilerplate/
+A live demo can be found at https://digicademy.github.io/2020-02-21_socinian_correspondence
 
-Released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), @digicademy
+Released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), @digicademy / Patrick Toschka
